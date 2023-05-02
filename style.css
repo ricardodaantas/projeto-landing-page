@@ -1,0 +1,35 @@
+header{
+    border: 1px solid black;
+    display:grid;
+    user-select: none;
+    background-color:black;
+    
+}
+header section:last-child{
+grid-template-rows: 2;
+align-items: center;
+
+}
+.Inicio,
+.Contato,
+.Promoções{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    letter-spacing: 5px;
+    text-decoration: none;
+}
+main{
+    border: 1px solid black;
+    background-color: black;
+
+}
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    border: 1px solid black;
+    background-color: black;
+   
+}
