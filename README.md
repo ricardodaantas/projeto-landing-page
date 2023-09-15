@@ -4,6 +4,7 @@ Prints solicitados ao final do projeto:
 ![Alt text](<Captura de tela 2023-09-15 135624.png>)
 
 2 - Versão Mobile
+
 ![Alt text](<Captura de tela 2023-09-15 135646.png>)
 
 3 - Link do site no Surge
