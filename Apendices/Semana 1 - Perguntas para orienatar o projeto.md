@@ -38,12 +38,3 @@ o logo do rodapé fica colado a parte mais baixa da pagina.
 
 12. Qual a localização dos ícones de redes sociais?
 Ficarão localizados no rodapé logo após o logo e antes dos icone das lojas de aplicativos.
-
-Prints solicitados ao final do projeto:
-
-1 - Versão Desketop
-
-
-
-2 - Versão Mobilo 
-
